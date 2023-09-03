@@ -8,8 +8,8 @@ Currently, the calculator is implemented in the following programming languages:
 
 - JavaScript
 - PHP
--Pyhon
--Go
+- Python
+- Go
 
 ## Usage
 
