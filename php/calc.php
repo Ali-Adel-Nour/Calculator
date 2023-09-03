@@ -37,4 +37,3 @@ class Calc {
 
 $calculatorInstance = new Calc('add', 10, 5, 2);
 echo $calculatorInstance->calculator(); // Output: 17
-
